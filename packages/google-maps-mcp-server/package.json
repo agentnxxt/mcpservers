@@ -1,0 +1,23 @@
+{
+  "name": "@mcphub/google-maps-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Google Maps Platform APIs — geocoding, places, routing, maps, elevation, air quality, pollen, solar, and more",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "google-maps-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  },
+  "license": "MIT"
+}
