@@ -1,6 +1,6 @@
 # Cloud/Hosted MCP Servers
 
-Remote MCP servers hosted by SaaS providers. These can be registered in MetaMCP as SSE/Streamable HTTP endpoints — no local process needed. Customers connect via OAuth and get instant access to the provider's tools.
+Remote MCP servers hosted by SaaS providers. These can be registered in the AgentNxt MCP Gateway as SSE/Streamable HTTP endpoints — no local process needed. Customers connect via OAuth and get instant access to the provider's tools.
 
 ## Available Cloud MCP Servers
 
@@ -22,9 +22,9 @@ Remote MCP servers hosted by SaaS providers. These can be registered in MetaMCP 
 | **Perplexity** | Local stdio only (`npx @perplexity-ai/mcp-server`) | Self-host via Docker, expose as SSE |
 | **Shopify** | Per-store only (`https://{store}.myshopify.com/api/mcp`) | Register individual store endpoints |
 
-## How to Register in MetaMCP
+## How to Register in AgentNxt MCP Gateway
 
-1. Go to MetaMCP UI at `https://mcp.agnxxt.com`
+1. Go to the Gateway UI at `https://mcp.agnxxt.com`
 2. Add Server → Type: **SSE**
 3. Enter the endpoint URL from the table above
 4. Complete the OAuth flow when prompted
@@ -33,7 +33,7 @@ Remote MCP servers hosted by SaaS providers. These can be registered in MetaMCP 
 ## Auth Notes
 
 - All cloud MCP servers use **OAuth 2.1** flows
-- MetaMCP handles OAuth token acquisition and refresh
+- The gateway handles OAuth token acquisition and refresh
 - **Linear** is the most flexible — also accepts a static API key as `Authorization: Bearer {key}`
 - **Slack** requires a registered Slack app with client ID (not just a bot token)
 - **Figma** requires a Figma account with Dev Mode seat for full design access
@@ -45,4 +45,4 @@ Most providers follow the convention:
 - `https://mcp.{provider}.com/sse` — SSE transport
 - `https://mcp.{provider}.com/mcp` — Streamable HTTP transport
 
-MetaMCP's SSE server type handles both. Use the `/sse` URLs listed above.
+The gateway's SSE server type handles both. Use the `/sse` URLs listed above.
