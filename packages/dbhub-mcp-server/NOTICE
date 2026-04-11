@@ -1,0 +1,9 @@
+ORIGINAL AUTHOR: Bytebase
+SOURCE: https://github.com/bytebase/dbhub
+LICENSE: MIT License
+
+This is the official DBHub MCP server maintained by Bytebase,
+included in the agentnxt/mcpservers catalog for customer convenience.
+Supports Postgres, MySQL, SQL Server, SQLite, and more.
+Replaces the archived Postgres-only MCP server.
+All credit belongs to the authors above.

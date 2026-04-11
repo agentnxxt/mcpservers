@@ -1,0 +1,8 @@
+ORIGINAL AUTHOR: Microsoft Corporation
+SOURCE: https://github.com/microsoft/playwright-mcp
+LICENSE: Apache License 2.0
+
+This is the official Playwright MCP server maintained by Microsoft,
+included in the agentnxt/mcpservers catalog for customer convenience.
+Replaces the archived Puppeteer MCP server.
+All credit belongs to the authors above.

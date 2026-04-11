@@ -1,7 +1,7 @@
-ORIGINAL AUTHOR: Anthropic, PBC and contributors
-SOURCE: https://github.com/modelcontextprotocol/servers-archived
+ORIGINAL AUTHOR: Brave Software / Anthropic, PBC
+SOURCE: https://github.com/brave/brave-search-mcp-server
 LICENSE: MIT License
 
-This package is a copy of an official Model Context Protocol reference server,
+This is the official Brave Search MCP server maintained by Brave,
 included in the agentnxt/mcpservers catalog for customer convenience.
-All credit for the original implementation belongs to the authors above.
+All credit belongs to the authors above.
