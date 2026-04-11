@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Linear Orbit, Inc.
+SERVICE URL: https://linear.app
+MCP ENDPOINT: https://mcp.linear.app/sse
+AUTH: OAuth or API Key (Bearer token)
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Linear project management. No source code — this is a
+remote hosted endpoint provided by Linear. The integration configuration and
+documentation were authored by AgentNxt.

@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Netlify, Inc.
+SERVICE URL: https://netlify.com
+MCP ENDPOINT: https://netlify-mcp.netlify.app/sse
+AUTH: OAuth 2.1
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Netlify deployment platform. No source code — this is a
+remote hosted endpoint provided by Netlify. The integration configuration and
+documentation were authored by AgentNxt.

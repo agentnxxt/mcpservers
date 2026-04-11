@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Slack Technologies, LLC
+SERVICE URL: https://slack.com
+MCP ENDPOINT: https://mcp.slack.com/sse
+AUTH: OAuth (requires registered Slack app with client ID)
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Slack messaging. No source code — this is a
+remote hosted endpoint provided by Slack. The integration configuration and
+documentation were authored by AgentNxt.

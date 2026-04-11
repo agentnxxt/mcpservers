@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Cloudflare, Inc.
+SERVICE URL: https://cloudflare.com
+MCP ENDPOINT: https://mcp.cloudflare.com/sse
+AUTH: OAuth
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Cloudflare APIs. No source code — this is a
+remote hosted endpoint provided by Cloudflare. The integration configuration and
+documentation were authored by AgentNxt.

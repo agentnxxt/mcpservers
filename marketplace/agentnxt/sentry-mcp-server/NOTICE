@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Functional Software, Inc. (Sentry)
+SERVICE URL: https://sentry.io
+MCP ENDPOINT: https://mcp.sentry.dev/sse
+AUTH: OAuth
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Sentry error tracking. No source code — this is a
+remote hosted endpoint provided by Sentry. The integration configuration and
+documentation were authored by AgentNxt.

@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Notion Labs, Inc.
+SERVICE URL: https://notion.so
+MCP ENDPOINT: https://mcp.notion.com/sse
+AUTH: OAuth 2.1
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Notion API. No source code — this is a
+remote hosted endpoint provided by Notion. The integration configuration and
+documentation were authored by AgentNxt.

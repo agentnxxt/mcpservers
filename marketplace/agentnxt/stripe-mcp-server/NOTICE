@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Stripe, Inc.
+SERVICE URL: https://stripe.com
+MCP ENDPOINT: https://mcp.stripe.com/sse
+AUTH: OAuth
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Stripe payments. No source code — this is a
+remote hosted endpoint provided by Stripe. The integration configuration and
+documentation were authored by AgentNxt.

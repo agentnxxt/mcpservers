@@ -1,0 +1,9 @@
+SERVICE PROVIDER: Figma, Inc.
+SERVICE URL: https://figma.com
+MCP ENDPOINT: https://mcp.figma.com/sse
+AUTH: OAuth (requires Dev Mode seat for full access)
+
+INTEGRATION AUTHOR: AgentNxt (https://github.com/agentnxt)
+DESCRIPTION: Cloud MCP integration for Figma design platform. No source code — this is a
+remote hosted endpoint provided by Figma. The integration configuration and
+documentation were authored by AgentNxt.
